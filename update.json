@@ -1,3 +1,16 @@
 {
-  
+   "updates":[
+      {
+         "fromVersion":1,
+         "toVersion":2,
+         "updateUrl":"",
+         "note":"test note 1"
+      },
+      {
+         "fromVersion":2,
+         "toVersion":3,
+         "updateUrl":"",
+         "note":"test note 2"
+      }
+   ]
 }
