@@ -1,16 +1,16 @@
 {
-   "updates":[
+   "Updates":[
       {
-         "fromVersion":1,
-         "toVersion":2,
-         "updateUrl":"https://github.com/random-fly/test/blob/main/application/update1to2.zip?raw=true",
-         "note":"test note 1"
+         "FromVersion":1,
+         "ToVersion":2,
+         "UpdateUrl":"https://github.com/random-fly/test/blob/main/application/update1to2.zip?raw=true",
+         "Note":"test note 1"
       },
       {
-         "fromVersion":2,
-         "toVersion":3,
-         "updateUrl":"https://github.com/random-fly/test/blob/main/application/update2to3.zip?raw=true",
-         "note":"test note 2"
+         "FromVersion":2,
+         "ToVersion":3,
+         "UpdateUrl":"https://github.com/random-fly/test/blob/main/application/update2to3.zip?raw=true",
+         "Note":"test note 2"
       }
    ]
 }
