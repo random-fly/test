@@ -5,12 +5,6 @@
          "ToVersion":2,
          "UpdateUrl":"https://github.com/random-fly/test/blob/main/launcher/update1-2.zip?raw=true",
          "Note":"test note 1"
-      },
-      {
-         "FromVersion":2,
-         "ToVersion":3,
-         "UpdateUrl":"https://github.com/random-fly/test/blob/main/launcher/update2-3.zip?raw=true",
-         "Note":"test note 2"
       }
    ]
 }
