@@ -11,6 +11,12 @@
          "ToVersion":3,
          "UpdateUrl":"https://drive.usercontent.google.com/download?id=1luIs3IKQoB12Q1qRez_4J1SgH9S2U9Jf&confirm=xxx",
          "Note":"Версия 3 без проверки USB ключа"
+      },
+      {
+         "FromVersion":3,
+         "ToVersion":4,
+         "UpdateUrl":"https://drive.usercontent.google.com/download?id=1Dbxc1LcJulwK9VcbWfZLWBdNAFV2ywCI&confirm=xxx",
+         "Note":"Перезалил все файлы без дельты"
       }
    ]
 }
