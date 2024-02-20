@@ -5,6 +5,12 @@
          "ToVersion":2,
          "UpdateUrl":"https://drive.usercontent.google.com/download?id=1v_Nrs_rWogVvEbIDa6wYtLGMVUO8tICu&confirm=xxx",
          "Note":"test note 1"
+      },
+      {
+         "FromVersion":2,
+         "ToVersion":3,
+         "UpdateUrl":"https://drive.usercontent.google.com/download?id=1luIs3IKQoB12Q1qRez_4J1SgH9S2U9Jf&confirm=xxx",
+         "Note":"Версия 3 без проверки USB ключа"
       }
    ]
 }
