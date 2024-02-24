@@ -1,5 +1,11 @@
 {
    "Updates":[
+	  {
+         "FromVersion":0,
+         "ToVersion":4,
+         "UpdateUrl":"https://drive.usercontent.google.com/download?id=1Dbxc1LcJulwK9VcbWfZLWBdNAFV2ywCI&confirm=xxx",
+         "Note":"Нулевой релиз"
+      },
       {
          "FromVersion":1,
          "ToVersion":2,
